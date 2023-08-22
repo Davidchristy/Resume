@@ -35,7 +35,6 @@ Computer Science - _Human-Computer Interaction, Educational Technology_
 
 
 
-
 ## EXPERIENCE
 ### Gaggle. Inc- Software Manager 
 _November 2021 - Current_
